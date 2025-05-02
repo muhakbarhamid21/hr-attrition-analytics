@@ -64,8 +64,4 @@ docker-compose.override.yml
 # Submission Requirements
 muhakbarhamid21-dashboard.jpg
 muhakbarhamid21-video.mp4
-model.h5
-model.pkl
-model.hdf5
-model.tf
-model
+#model/
