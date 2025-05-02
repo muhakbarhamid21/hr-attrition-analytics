@@ -1,4 +1,4 @@
-# Proyek Akhir: Analisis Faktor Penyebab Tingginya Tingkat Attrition Karyawan Jaya Jaya Maju
+# Proyek Pertama: Analisis Faktor Penyebab Tingginya Tingkat Attrition Karyawan Jaya Jaya Maju (Menyelesaikan Permasalahan Human Resources)
 
 ## Business Understanding
 
