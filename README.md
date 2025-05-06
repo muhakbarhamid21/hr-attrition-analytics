@@ -8,6 +8,7 @@
     - [Persiapan](#persiapan)
       - [Sumber data](#sumber-data)
       - [Setup environment](#setup-environment)
+      - [Menjalankan Proses Prediksi/Klasifikasi](#menjalankan-proses-prediksiklasifikasi)
   - [Business Dashboard](#business-dashboard)
   - [Modeling \& Evaluation](#modeling--evaluation)
   - [Conclusion](#conclusion)
@@ -92,6 +93,19 @@ Dataset yang digunakan dalam proyek ini berasal dari simulasi data karyawan peru
 
    ```bash
    pip install -r requirements.txt
+   ```
+
+#### Menjalankan Proses Prediksi/Klasifikasi
+
+Untuk melakukan prediksi attrition, dapat menjalankan file `prediction.py` yang telah disiapkan. File ini akan membaca data baru dari file CSV dan mengembalikan hasil prediksi dalam bentuk file output. Data yang disiapkan untuk prediksi/klasifikasi terdapat pada [Sumber Data](#sumber-data) atau lampiran link diatas.
+
+**Tahapan:**
+
+1. Ikuti langkap-langkah [Setup Environtment](#setup-environment) atau di atas untuk setup environment.
+2. Jalankan file `prediction.py` dengan menggunakan perintah berikut:
+
+   ```bash
+   python prediction.py
    ```
 
 ## Business Dashboard
