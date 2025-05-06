@@ -103,7 +103,7 @@ URL Dashboard:
 
 **Halaman 1: General Workforce Analytics (Statistical Overview of Employee Attrition & Retention):**
 
-![Dashboard - Halaman 1](<Assets/muhakbarhamid21_-_HR_Attrition_Dashboard_(Jaya_Jaya_Maju)_1.jpg>)
+![Dashboard - Halaman 1](<assets/muhakbarhamid21_-_HR_Attrition_Dashboard_(Jaya_Jaya_Maju)_1.jpg>)
 
 Halaman pertama menampilkan analitik deskriptif untuk mengeksplorasi distribusi karyawan yang bertahan dan mengundurkan diri berdasarkan beberapa dimensi penting:
 
@@ -119,7 +119,7 @@ Fitur tambahan seperti filter interaktif department dan gender memungkinkan peng
 
 **Halaman 2: Attrition Prediction & Probability Analysis (Insights from Machine Learning-Based Forecasting):**
 
-![Dashboard - Halaman 2](<Assets/muhakbarhamid21_-_HR_Attrition_Dashboard_(Jaya_Jaya_Maju)_2.jpg>)
+![Dashboard - Halaman 2](<assets/muhakbarhamid21_-_HR_Attrition_Dashboard_(Jaya_Jaya_Maju)_2.jpg>)
 
 Halaman kedua menyajikan hasil analisis prediktif yang dibangun dengan pendekatan machine learning menggunakan algoritma Stacking Ensemble pada tiga algoritma yaitu Logistic Regression, Random Forest, dan XGBoost. Tujuannya adalah untuk pengambilan keputusan berbasis prediksi. Adapun dimensi penting yang digunakan adalah:
 
