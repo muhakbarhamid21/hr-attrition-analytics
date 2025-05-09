@@ -65,3 +65,6 @@ docker-compose.override.yml
 muhakbarhamid21-dashboard.jpg
 muhakbarhamid21-video.mp4
 #model/
+
+# Hidden files
+Icon*
